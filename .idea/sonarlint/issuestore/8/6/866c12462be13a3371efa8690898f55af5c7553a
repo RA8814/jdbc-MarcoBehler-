@@ -1,0 +1,25 @@
+
+`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‰¼“şÿÿÿÿ8Û÷™Öì0
+j
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(øçò¨ıÿÿÿÿ8Ü÷™Öì0
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(””ÜÄ8Ü÷™Öì0
+q
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿìû¡øÿÿÿÿ8Ü÷™Öì0
+l
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(İÂ€¿8İ÷™Öì0
+T
+java:S1854">Remove this useless assignment to local variable "dataSource".(äĞê
+E
+java:S1481"/Remove this unused "dataSource" local variable.(äĞê
+M	java:S106"9Replace this use of System.out or System.err by a logger.(»ÆŞ`
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í«‡Áüÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¨…Ó
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ˆ‘¸¢ıÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(§İšƒ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(ì¯æ´
+Q	java:S125l"<This block of commented-out lines of code should be removed.(ÊŞä
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
